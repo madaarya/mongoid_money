@@ -29,6 +29,5 @@ Gem::Specification.new do |s|
     "spec/spec_helper.rb",
     "spec/support/dummy_money.rb"
   ]
-  end
 end
 
